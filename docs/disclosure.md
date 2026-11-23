@@ -17,3 +17,4 @@ The format (copy the shape, not the words):
 
 ## My log
 
+- W04 · GitHub Copilot CLI (Auto) · Used for: my sandbox tests and this commit · Checked by: reading every output myself
